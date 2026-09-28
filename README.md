@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E64A19,100:FF8A50&height=200&section=header&textFundador%20da%20Aiex%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E64A19,100:FF8A50&height=220&section=header&text=Aiex&fontSize=80&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Aiex" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E64A19&center=true&vCenter=true&width=600&lines="Fundador+da+Aiex;Desenvolvedor+Full+Stack;Produtos+digitais+para+neg%C3%B3cios;Da+ideia+ao+produto+no+ar" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E64A19&center=true&vCenter=true&width=600&lines=Fundador+da+Aiex;Desenvolvedor+Full+Stack;Produtos+digitais+para+neg%C3%B3cios;Da+ideia+ao+produto+no+ar" alt="Typing SVG" />
   </a>
 </p>
 
