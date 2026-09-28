@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E64A19,100:FF8A50&height=200&section=header&text=Oi,%20eu%20sou%20o%20Mikhail&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fundador%20da%20Aiex%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E64A19,100:FF8A50&height=200&section=header&textFundador%20da%20Aiex%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="Banner" />
 </p>
 
 <p align="center">
@@ -19,8 +19,6 @@
 ## 👋 Sobre mim
 
 Sou desenvolvedor full stack e **fundador da Aiex**, empresa de tecnologia que cria produtos digitais para negócios crescerem com menos esforço.
-
-Gosto de construir o produto de ponta a ponta: da ideia ao código, do banco de dados à interface.
 
 ---
 
